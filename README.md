@@ -6,7 +6,3 @@
 - https://en.wikipedia.org/wiki/Cross-site_request_forgery
 - https://en.wikipedia.org/wiki/Site_isolation
 - https://en.wikipedia.org/wiki/Cross-site_scripting#Related_vulnerabilities
-
-
-# Presentation:
-## [FuzzOrigin: Detecting UXSS vulnerabilities in Browsers through Origin Fuzzing](https://www.usenix.org/conference/usenixsecurity22/presentation/kim)
