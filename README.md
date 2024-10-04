@@ -6,3 +6,7 @@
 - https://en.wikipedia.org/wiki/Cross-site_request_forgery
 - https://en.wikipedia.org/wiki/Site_isolation
 - https://en.wikipedia.org/wiki/Cross-site_scripting#Related_vulnerabilities
+
+
+# Presentation:
+https://www.usenix.org/conference/usenixsecurity22/presentation/kim
